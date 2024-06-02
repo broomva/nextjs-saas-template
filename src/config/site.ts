@@ -142,7 +142,7 @@ export const siteConfig = {
 //   ogImage: `${site_url}/og.jpg`,
 //   links: {
 //     twitter: "https://twitter.com/miickasmt",
-//     github: "https://github.com/wedao-latam/SaaS Template-frontend",
+//     github: "https://github.com/broomva/nextjs-saas-template",
 //   },
 //   mailSupport: "support@saas-starter.com",
 // };
